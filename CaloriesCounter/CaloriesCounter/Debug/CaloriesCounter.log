@@ -1,0 +1,4 @@
+﻿  Search_For_Match.cpp
+C:\Users\lunit\source\repos\CaloriesCounter\CaloriesCounter\global.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\lunit\source\repos\CaloriesCounter\CaloriesCounter\Search_For_Match.cpp(18,20): warning C4018: <: несоответствие типов со знаком и без знака
+  CaloriesCounter.vcxproj -> C:\Users\lunit\source\repos\CaloriesCounter\Debug\CaloriesCounter.exe
